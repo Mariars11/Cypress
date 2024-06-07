@@ -1,6 +1,6 @@
-> npm init
-> npm install cypress
-> npm install cypress --save-dev
+> npm init <br>
+> npm install cypress <br>
+> npm install cypress --save-dev <br>
 
 # Adicionar no script do package.json
 
